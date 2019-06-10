@@ -7,7 +7,7 @@ Description
 Socket.io library. It is a web page that udpates itself with latest news from
 rss channels that can be specified in a config file.
 It consists of three parts: Express.js-based website, Redis storage and
-script that fills storage with latest news runned by cron.
+script that fills storage with latest news runned by cron
 
 Installation
 -
